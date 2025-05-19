@@ -12,6 +12,9 @@ Són páginas que no tienen JavaScript.
     - **Ruta Absoluta**: Es la ruta de una imagen de internet, empezando con **https://, http://, etc**.
     - **Ruta Relativa**: Es la ruta donde se encuentra la imágen dentro de nuestro ordenador.
 
+- **VIDEO**
+  - **Controls**: Si se pone **Controls="Controls"**, aparecen los controles del video
+
 ## Publicar páginas
 
 - **GitHub**
